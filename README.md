@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13378695/231195958-f28fdaab-4b1b-4782-8369-f44b9584d060.png"  width="300" height="300">
+  <img src="https://user-images.githubusercontent.com/13378695/231199878-b985e814-5c75-40bc-bb63-718596a46205.png"  width="300" height="300">
 </p>
 
 # Composy
