@@ -51,12 +51,12 @@ C4 0.5 r0.5 D4 1.0 r1.0 E4 2.0
 ### Chords
 A chord consists of a root note followed by a '-' and a shorthand for the chord type. Chord shorthands include:
 
-M: Major
-m: Minor
-M7: Major 7
-m7: Minor 7
-7: Dominant 7
-Example:
+- M: Major
+- m: Minor
+- M7: Major 7
+- m7: Minor 7
+- 7: Dominant 7
+- Example:
 
 ```
 C4-M D4-m E4-M7 F4-m7 G4-7 A4-m7
