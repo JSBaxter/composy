@@ -1,4 +1,6 @@
 ![00024-1949998484](https://user-images.githubusercontent.com/13378695/231194387-26a05a5f-f52a-4f81-ae79-1b5eefa92104.png)
+<img src="https://user-images.githubusercontent.com/13378695/231194387-26a05a5f-f52a-4f81-ae79-1b5eefa92104.png"  width="300" height="300">
+
 # Composy
 The composy music language is a simple text-based language designed for composing music using a concise and human-readable format. The language can be used to create melodies, chord progressions, and multi-track compositions.
 
