@@ -56,8 +56,8 @@ A chord consists of a root note followed by a '-' and a shorthand for the chord 
 - M7: Major 7
 - m7: Minor 7
 - 7: Dominant 7
-- Example:
 
+Example:
 ```
 C4-M D4-m E4-M7 F4-m7 G4-7 A4-m7
 ```
