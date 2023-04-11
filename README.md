@@ -1,4 +1,4 @@
-![00024-1949998484](https://user-images.githubusercontent.com/13378695/231194387-26a05a5f-f52a-4f81-ae79-1b5eefa92104.png)
+
 <img src="https://user-images.githubusercontent.com/13378695/231194387-26a05a5f-f52a-4f81-ae79-1b5eefa92104.png"  width="300" height="300">
 
 # Composy
